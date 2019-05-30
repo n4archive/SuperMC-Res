@@ -1,0 +1,15 @@
+{
+	"parent":"block/cube",
+	"display":{
+		"head":{
+			"rotation":[-30,0,0],
+			"translation":[0,-30.75,-7.25],
+			"scale":[3.0173,3.0173,3.0173]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 80, 0, -10 ],
+			"translation": [ -6.99, -2.9, 5.19 ],
+			"scale": [ 2.01, 2.01, 2.01 ]
+		}
+	}
+}
